@@ -1,0 +1,8 @@
+{
+  "name": "devextreme-php-data",
+  "license": "MIT",
+  "dependencies": {
+    "devextreme": "19.1.5",
+    "devextreme-aspnet-data": "2.4.3"
+  }
+}
